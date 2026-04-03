@@ -4,3 +4,4 @@
 •	Created key DAX measures such as Total Sales, Total Orders, and Monthly Sales Trend.
 •	Designed interactive dashboards to support data-driven decision making
 •	"Created automated monthly reports reducing manual reporting time by X%."
+
